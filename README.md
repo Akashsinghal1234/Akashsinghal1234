@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsinghal1234&label=Profile%20views&color=0e75b6&style=flat" alt="akashsinghal1234" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@akashsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/@akashsinghal?logo=twitter&style=for-the-badge" alt="@akashsinghal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@akashsinghla" target="blank"><img src="https://img.shields.io/twitter/follow/@akashsinghla?logo=twitter&style=for-the-badge" alt="@akashsinghla" /></a> </p>
 
 - 🔭 I’m currently working on **Blog Site**
 
